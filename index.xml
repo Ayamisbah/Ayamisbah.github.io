@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>/</link>
-    <description>Recent content on </description>
+    <title>Premed_Insights</title>
+    <link>https://Ayamisbah.github.io/</link>
+    <description>Recent content on Premed_Insights</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://Ayamisbah.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primis eget imperdiet xzzzzzzzzzzzzzzzzzlorem</title>
+      <link>https://Ayamisbah.github.io/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Ayamisbah.github.io/post/post1/</guid>
+      <description>Example of post with missing date property but with pic.</description>
+    </item>
+    <item>
+      <title>Primis exxxxxxxxxxxxxxget imperdiet lorem</title>
+      <link>https://Ayamisbah.github.io/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Ayamisbah.github.io/post/post1/</guid>
+      <description>Example of post with missing date property but with pic.</description>
+    </item>
+    <item>
+      <title>Primis exxxxxxxxxxxxxxget imperdiet lorem</title>
+      <link>https://Ayamisbah.github.io/post/post1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Ayamisbah.github.io/post/post1/</guid>
+      <description>Example of post with missing date property but with pic.</description>
+    </item>
   </channel>
 </rss>
